@@ -1,0 +1,12 @@
+@font-face {
+    font-family:"arshivo-black" ;
+    src: url(/train/fonts/Archivo/Archivo-Black.ttf) format("truetype");
+}
+@font-face{
+    font-family: "robo-medium";
+    src: url(/train/fonts/Roboto/Roboto-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: "robo-regular";
+    src: url(/train/fonts/Roboto/Roboto-Regular.ttf) format("truetype");
+}
